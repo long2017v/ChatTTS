@@ -1,1 +1,2 @@
 mylist = ['blue','orange','green']
+print(mapped_dict)
